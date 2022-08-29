@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.input_text{
+    padding: 2px;
+    background-color: azure;
+    margin-bottom: 10px;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 5px;
+    border-style: solid;
+}
+.mirror{
+    font-size: larger;
+}
