@@ -13,4 +13,5 @@ body{
 }
 .mirror{
     font-size: larger;
+    display: none;
 }
