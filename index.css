@@ -12,5 +12,5 @@ body{
     border-style: solid;
 }
 .mirror{
-    font-size: larger;
+    border-style:dotted;
 }
